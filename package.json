@@ -2,7 +2,7 @@
   "private": "true",
   "name": "aria.ai",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "astro.config.mjs",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
